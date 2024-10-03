@@ -10,3 +10,5 @@ datagroup: all_reports_insights_temp_default_datagroup {
 
 persist_with: all_reports_insights_temp_default_datagroup
 
+
+explore: beat_audience_metrics_insights_by_date {}
